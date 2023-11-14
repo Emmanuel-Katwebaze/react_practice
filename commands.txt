@@ -1,0 +1,6 @@
+=> Make sure to create npm folder in AppData
+=> npm i react-icons --save -prod => make a production dependency
+=> ***Project Challenge do***
+=> npx json-server -p 3500 -w data/db.json
+=> 304 uses cached info, hence doesn't need to get from the server because nothing has changed
+=> ***Fetch Data Challenge***
