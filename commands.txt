@@ -4,3 +4,12 @@
 => npx json-server -p 3500 -w data/db.json
 => 304 uses cached info, hence doesn't need to get from the server because nothing has changed
 => ***Fetch Data Challenge***
+=> npm i react-router-dom -S
+=> npm i date-fns -S
+=> npm i axios
+=> small to medium applications can use Easy Peasy redux and big enterprise applications should use redux directly
+=> npm i easy-peasy
+
+- useReducer
+-useMemo
+-
