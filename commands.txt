@@ -10,7 +10,7 @@
 => small to medium applications can use Easy Peasy redux and big enterprise applications should use redux directly
 => npm i easy-peasy
 => npm i @reduxjs/toolkit react-redux
-
+=> Redux dev tools
 - useReducer
 -useMemo
 -
